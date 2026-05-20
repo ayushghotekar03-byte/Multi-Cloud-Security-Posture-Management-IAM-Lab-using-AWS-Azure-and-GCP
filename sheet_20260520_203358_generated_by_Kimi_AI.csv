@@ -1,0 +1,7 @@
+Component,AWS,Azure,GCP,
+IAM,Roles + SCPs + Permission Boundaries,Conditional Access + PIM,Custom Roles + Org Policies,
+Threat Detection,GuardDuty + Macie,Defender for Cloud + Sentinel,Security Command Center,
+Compliance,Security Hub (CIS/NIST/PCI),Azure Policy + Compliance,Cloud Asset Inventory,
+Encryption,KMS (Multi-region),Key Vault (HSM),Cloud KMS (HSM),
+Network Security,WAFv2 + VPC Flow Logs,Azure Firewall + NSG,Cloud Armor + VPC Controls,
+Logging,CloudTrail (Multi-region),Log Analytics + Monitor,Cloud Logging + Pub/Sub,
